@@ -3,7 +3,7 @@
 A simple temperature converter web application built using **HTML**, **CSS**, and **JavaScript**.  
 It allows users to convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**.
 
-### 🔗 Live Demo
+### 🔗 Project URL
 
 https://temperature-converter-theta-seven.vercel.app/
 
