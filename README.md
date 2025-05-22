@@ -5,7 +5,7 @@ It allows users to convert temperatures between **Celsius**, **Fahrenheit**, and
 
 ### 🔗 Live Demo
 
-👉 [Click here to try it out](https://temperature-converter-theta-seven.vercel.app/)
+https://temperature-converter-theta-seven.vercel.app/
 
 ---
 
